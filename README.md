@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zhen An</h1>
+<h3 align="center">A passionate software developer from Singapore</h3>
 
-<!--
-**ftwbored/ftwbored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [The Odin Project](https://theodinproject.com/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java, Angular, HTML, CSS, JS and React**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **cza.zhenan@gmail.com**
+
+- ⚡ Fun fact **I can speak 3 languages**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/choa zhen an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choa zhen an" height="30" width="40" /></a>
+</p>
