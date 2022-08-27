@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhen An</h1>
 <h3 align="center">A passionate software developer from Singapore</h3>
 
-- 🔭 I’m currently taking on Introduction to Front-End Development by Meta(https://www.coursera.org/learn/introduction-to-front-end-development?)
+- 🔭 I’m currently taking on <a href="https://www.coursera.org/learn/introduction-to-front-end-development?"> Introduction to Front-End Development by Meta</a>
 
 - 🌱 I’m currently learning **Java, Angular, HTML, CSS, JS and React**
 
